@@ -6,5 +6,6 @@
 
 # ps 
 model = word2vec.Word2Vec.load('./source/Word60.model') #聚类模型
-该模型由于太大无法上传，过几天上链接🔗
+该模型由于太大无法上传，下载链接：
+链接:https://pan.baidu.com/s/1pORnsFthq5hFZjCdi4xhRQ  密码:0xzg
 
